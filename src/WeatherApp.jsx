@@ -19,7 +19,7 @@ export default function WeatherApp() {
 	}
 
 	return (<div>
-		<h2>Weather App by khushi</h2>
+		<h2>Weather App by khushboo</h2>
 		<SearchBox updateInfo={updateInfo} />
 		<InfoBox info={weatherInfo} />
 	</div>)
